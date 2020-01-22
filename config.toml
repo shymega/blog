@@ -1,0 +1,22 @@
+baseurl = "https://blog.shymega.org.uk/"
+languageCode = "en-gb"
+title = "when is_blog(self())"
+theme = "temple"
+copyright = "Copyright © (CC-BY-SA 4.0) Dom Rodriguez 2018-{year}"
+
+[params]
+  # Enables syntax highlighting
+  highlight = true 
+  hjslangs = ["go", "elixir", "clojure"]
+  topmenu = "categories"
+
+# Builds a list page for each category given
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[author]
+  name = "Dom Rodriguez (shymega)"
+  github = "shymega"
+  email = "shymega@shymega.org.uk"
+  twitter = "shymega_"

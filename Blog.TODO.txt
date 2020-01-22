@@ -1,0 +1,8 @@
+write blog post on:
+
+* clojure/java webcam HD
+* motion software HD fix
+* suspend-prevent
+* rabbitmq MQTT topic
+* systemd units on laptop
+* xcp-ng - dell t20
